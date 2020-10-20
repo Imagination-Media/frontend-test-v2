@@ -8,8 +8,6 @@ Images can be extracted from the figma and used statically in the project.
 
 Requirements for the test are the use of scss, react, redux (you can use redux toolkit), the techniques used in the project will be evaluated. It is allowed to research on web and to use any frameworks. 
 
-The endpoint to get the product list is available here: https://5f8df37c4c15c40016a1e46d.mockapi.io/api/v1/products
-
 ## Details about the test/prototype
 
 Full resource: https://www.figma.com/file/uTmmvoFOeq3Gfe96Aa77f7/Front-end-Test?node-id=1%3A871 
